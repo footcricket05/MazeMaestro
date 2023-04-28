@@ -27,3 +27,8 @@ The program is limited to finding solutions for mazes that start from the top le
 
 ## Contributing
 If you find any issues or have any suggestions for improvement, feel free to create a pull request or open an issue.
+
+
+## License
+This project is licensed under the MIT License - see the [License](https://github.com/footcricket05/Maze-Solver-DAA/blob/main/licence)
+ file for details.
