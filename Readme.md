@@ -1,6 +1,6 @@
 # MazeSolver
 
-MazeSolver is a Python program that finds a path through a maze. It uses an input image of the maze and outputs a .gif file showing the solution path.
+MazeSolver is a Python program that finds a path through a maze. It uses an input image of the maze and outputs a `.gif` file showing the solution path.
 
 
 
@@ -11,7 +11,7 @@ To run the program, you need to have Python installed on your computer. Clone th
 python maze_solver.py
 ```
 
-Make sure the input maze image is located in the ./inputs/ directory. The maze should start from the top left and end at the bottom right.
+Make sure the input maze image is located in the `./inputs/` directory. The maze should start from the top left and end at the bottom right.
 
 You can generate a maze using this online maze generator.
 
