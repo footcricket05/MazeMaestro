@@ -15,12 +15,12 @@ Make sure the input maze image is located in the `./inputs/` directory. The maze
 
 You can generate a maze using this online maze generator.
 
-The output .gif file will be saved in the ./outputs/ directory.
+The output `.gif` file will be saved in the `./outputs/` directory.
 
 
 
 ## Limitations
-The input image of the maze should be in the ./inputs/ directory and follow the above-mentioned limitations.
+The input image of the maze should be in the `./inputs/` directory and follow the above-mentioned limitations.
 The program is limited to finding solutions for mazes that start from the top left and end at the bottom right.
 
 
