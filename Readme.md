@@ -12,7 +12,7 @@ To run the program, you'll need to have Python installed on your computer. Follo
 
 3. Run the program by executing the following command:
    ```bash
-   python maze_solver.py
+   python maze_maestro.py
    ```
 
 4. Ensure that the input maze image is located in the `./inputs/` directory. The maze should have a starting point in the top left corner and an endpoint in the bottom right corner.
